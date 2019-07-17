@@ -1,6 +1,6 @@
-# mathematical_English
-##Mathematical English for Chinese learners.<br>
-###代数-数论<br>
+# Mathematical English
+## Mathematical English for Chinese learners.<br>
+### 代数-数论<br>
 natural number 自然数<br>
 positive number 正数 <br>
 negative number 负数<br>
@@ -38,7 +38,7 @@ nonnegative 非负的 <br>
 mean平均数<br>
 median中值<br>
 
-代数-基本数学概念<br>
+## 代数-基本数学概念<br>
 ALGEBRA 代数<br>
 arithmetic mean 算术平均值<br>
 weighted average 加权平均值<br>
@@ -64,7 +64,7 @@ difference 差<br>
 product 积<br>
 quotient 商<br>
 remainder 余数<br>
-代数-基本运算, 小数,分数<br>
+## 代数-基本运算, 小数,分数<br>
 Add/plus 加 <br>
 subtract 减 <br>
 Multiply / times 乘<br>
@@ -91,7 +91,7 @@ quarter 四分之一 <br>
 ordinary /decimal scale 十进制 <br>
 tens 十位 , units 个位<br>
 tenths unit 十分位<br>
-代数-方程,集合,数列等<br>
+## 代数-方程,集合,数列等<br>
 algebraic term 代数项<br>
 like terms, similar terms 同类项 <br>
 numerical coefficient 数字系数<br>
@@ -117,7 +117,7 @@ proportion 比例 <br>
 permutation 排列<br>
 combination 组合<br>
 trigonometric function 三角函数<br>
-几何-三角<br>
+## 几何-三角<br>
 plane geometry 平面几何<br>
 plane 平面<br>
 alternate angle 内错角<br>
@@ -142,7 +142,7 @@ isosceles triangle 等腰三角形 <br>
 right triangle 直角三角形<br>
 oblique 斜三角形<br>
 inscribed triangle 内接三角形<br>
-几何-平面, 立体<br>
+## 几何-平面, 立体<br>
 quadrilateral 四边形<br>
 pentagon 五边形<br>
 hexagon 六边形<br>
@@ -168,7 +168,7 @@ circular cylinder 圆柱体 <br>
 cone 圆锥 <br>
 sphere 球体<br>
 solid 立体的 <br>
-几何-图形概念<br>
+## 几何-图形概念<br>
 bisect 平分<br>
 circumscribe 外切 <br>
 inscribe 内切<br>
@@ -195,7 +195,7 @@ depth 深度<br>
 volume 体积<br>
 surface area 表面积<br>
 edge 棱<br>
- 几何-坐标<br>
+## 几何-坐标<br>
 arm 直角三角形的股<br>
 hypotenuse 斜边<br>
 included side 夹边<br>
@@ -220,7 +220,7 @@ quadrant 象限 <br>
 slope 斜率<br>
 transversal 截线<br>
 intercept 截距<br>
-商业术语,计量单位<br>
+## 商业术语,计量单位<br>
 Intercalary/leap year 闰年(366天) <br>
 common year 平年(365天)<br>
 depreciation 折旧<br>
