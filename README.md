@@ -1,6 +1,6 @@
 # mathematical_English
-Mathematical English for Chinese learners.<br>
-<b>代数-数论<b><br>
+##Mathematical English for Chinese learners.<br>
+###代数-数论<br>
 natural number 自然数<br>
 positive number 正数 <br>
 negative number 负数<br>
